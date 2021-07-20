@@ -7236,7 +7236,7 @@ section {
   background-image: url('https://via.placeholder.com/1920x500.png');
 }
 .page-header-contact {
-  background-image: url('https://via.placeholder.com/1920x500.png');
+  background-image: url('./images/REF/contact.jpg');
 }
 .pheader-service-detail1 {
   background-image: url('https://via.placeholder.com/1920x500.png');
@@ -7389,13 +7389,13 @@ section {
     margin-bottom: 20px;
 }
 .icon-bg-1 {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(./images/REF/r1.jpg);
 }
 .icon-bg-2 {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(./images/REF/r2.jpg);
 }
 .icon-bg-3 {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(./images/REF/r3.jpg);
 }
 .icon-bg-4 {
     background-image: url(https://via.placeholder.com/715x628.png);
@@ -7979,7 +7979,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background: #F5592F;
 }
 .cta {
-    background-image: url(https://via.placeholder.com/1820x325.png);
+    background-image: url(./images/REF/cta.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 70px 0 73px 0;
