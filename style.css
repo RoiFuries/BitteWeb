@@ -6123,7 +6123,7 @@ object {
 ## Miscellaneous
 --------------------------------------------------------------*/
 .site-overlay {
-  cursor: url(https://via.placeholder.com/32x32.png) 16 16, default;
+  /* cursor: url(https://via.placeholder.com/32x32.png) 16 16, default; */
   background: transparent;
   width: 100vw;
   height: 100vh;
@@ -7262,6 +7262,11 @@ section {
 .pheader-faq {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
+.pheader-dept{
+  background-image: url(./images/deptos/banner2.jpg);
+
+}
+
 .pheader-portfolio {
     background-image: url(./images/deptos/banner.jpg);
     
